@@ -1,0 +1,8 @@
+modelscope
+transformers
+accelerate
+unstructured
+markdown
+sentencepiece
+numpy
+tqdm
